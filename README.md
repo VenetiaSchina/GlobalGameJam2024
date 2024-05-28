@@ -8,18 +8,22 @@ This game was a project for the Global Game Jam 2024 that took place at Patra's 
 ## Storyline
 You find yourself trapped in a mysterious world filled with dangerous creatures and treacherous terrain. The only way to escape is to navigate through a series of challenging levels, each guarded by increasingly formidable foes. Can you overcome the odds and make it to safety?
 
+<img src="https://github.com/VenetiaSchina/GlobalGameJam2024/blob/main/photos/3.JPG?raw=true">
+
 ## Gameplay
 - **Dodge Enemies:** Avoid contact with hostile creatures roaming the levels. One wrong move could spell disaster or make you die for laugh!
 - **Navigate Obstacles:** Leap over pits, climb platforms, and maneuver through hazardous environments to progress.
 - **Reach the Goal:** Your ultimate objective is to reach the tent  at the end of the level. Only the quickest and most agile players will succeed!
 
-<img src="<img src="https://github.com/VenetiaSchina/GlobalGameJam2024/blob/main/photos/1.jpg?raw=true">
+<img src="https://github.com/VenetiaSchina/GlobalGameJam2024/blob/main/photos/1.JPG?raw=true">
 
 
 ## Controls
 - Use the arrow keys or WASD keys to move your character.
 - Press the spacebar to jump and avoid obstacles.
 - Use timing and precision to outmaneuver enemies and hazards.
+
+<img src="https://github.com/VenetiaSchina/GlobalGameJam2024/blob/main/photos/2.JPG?raw=true">
 
 
 ## Get Started
