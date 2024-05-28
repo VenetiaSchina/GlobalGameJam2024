@@ -1,5 +1,7 @@
 # Killing Joke
 
+<img src="https://github.com/VenetiaSchina/GlobalGameJam2024/blob/main/photos/Background_mainmenu_0.png?raw=true">
+
 Welcome to Killing Joke, a classic platformer where quick reflexes and nimble movements are the keys to survival! In this game, your goal is simple: dodge the enemies and obstacles to reach the end of the level.<br>
 
 This game was a project for the Global Game Jam 2024 that took place at Patra's Site.
@@ -10,6 +12,9 @@ You find yourself trapped in a mysterious world filled with dangerous creatures 
 - **Dodge Enemies:** Avoid contact with hostile creatures roaming the levels. One wrong move could spell disaster or make you die for laugh!
 - **Navigate Obstacles:** Leap over pits, climb platforms, and maneuver through hazardous environments to progress.
 - **Reach the Goal:** Your ultimate objective is to reach the tent  at the end of the level. Only the quickest and most agile players will succeed!
+
+<img src="<img src="https://github.com/VenetiaSchina/GlobalGameJam2024/blob/main/photos/1.jpg?raw=true">
+
 
 ## Controls
 - Use the arrow keys or WASD keys to move your character.
